@@ -1,0 +1,60 @@
+C:\Users\musli\source\repos\Kursach\KursachTests1\obj\Debug\KursachTests1.csprojAssemblyReference.cache
+C:\Users\musli\source\repos\Kursach\KursachTests1\obj\Debug\KursachTests1.csproj.CoreCompileInputs.cache
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\KursachTests1.dll
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\KursachTests1.pdb
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\Kursach.exe
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\Kursach.pdb
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\Kursach.exe.config
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\musli\source\repos\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\musli\source\repos\Kursach\KursachTests1\obj\Debug\KursachTests1.csproj.CopyComplete
+C:\Users\musli\source\repos\Kursach\KursachTests1\obj\Debug\KursachTests1.dll
+C:\Users\musli\source\repos\Kursach\KursachTests1\obj\Debug\KursachTests1.pdb
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\KursachTests1.dll
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\KursachTests1.pdb
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\Kursach.exe
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\Kursach.pdb
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\Kursach.exe.config
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\obj\Debug\KursachTests1.csprojAssemblyReference.cache
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\obj\Debug\KursachTests1.csproj.CoreCompileInputs.cache
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\obj\Debug\KursachTests1.csproj.CopyComplete
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\obj\Debug\KursachTests1.dll
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\KursachTests1\obj\Debug\KursachTests1.pdb
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\KursachTests1.dll
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\KursachTests1.pdb
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\Kursach.exe
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\Kursach.pdb
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\Kursach.exe.config
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\obj\Debug\KursachTests1.csproj.AssemblyReference.cache
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\obj\Debug\KursachTests1.csproj.CoreCompileInputs.cache
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\obj\Debug\KursachTests1.csproj.CopyComplete
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\obj\Debug\KursachTests1.dll
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\KursachTests1\obj\Debug\KursachTests1.pdb

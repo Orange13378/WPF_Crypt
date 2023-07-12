@@ -1,0 +1,45 @@
+C:\Users\musli\source\repos\Kursach\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\musli\source\repos\Kursach\Kursach\bin\Debug\Kursach.exe
+C:\Users\musli\source\repos\Kursach\Kursach\bin\Debug\Kursach.pdb
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\MainWindow.g.cs
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\App.g.cs
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\Kursach_MarkupCompile.cache
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\Kursach_MarkupCompile.lref
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\MainWindow.baml
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\Kursach.g.resources
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\Kursach.exe
+C:\Users\musli\source\repos\Kursach\Kursach\obj\Debug\Kursach.pdb
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\bin\Debug\Kursach.exe
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\bin\Debug\Kursach.pdb
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\MainWindow.g.cs
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\App.g.cs
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\Kursach_MarkupCompile.cache
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\Kursach_MarkupCompile.lref
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\MainWindow.baml
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\Kursach.g.resources
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\Kursach.exe
+C:\Users\musli\Desktop\C#\Куросвая работа ожидаемый результат Аскерли Муслим\kursach\Kursach\Kursach\obj\Debug\Kursach.pdb
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\bin\Debug\Kursach.exe.config
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\bin\Debug\Kursach.exe
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\bin\Debug\Kursach.pdb
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\Kursach.csproj.AssemblyReference.cache
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\Kursach.csproj.SuggestedBindingRedirects.cache
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\MainWindow.g.cs
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\App.g.cs
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\Kursach_MarkupCompile.cache
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\MainWindow.baml
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\Kursach.g.resources
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\Kursach.exe
+F:\GitHubProjects\WPFEncrypt\kursach\Kursach\Kursach\obj\Debug\Kursach.pdb

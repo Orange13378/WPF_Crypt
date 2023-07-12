@@ -1,0 +1,23 @@
+﻿<Window x:Name="MainWin" x:Class="Kursach.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Vigenère Encryption" Height="571" Width="900" FontFamily="Times New Roman" FontSize="22">
+    <Grid Width="900" Background="White">
+
+        <TextBox x:Name="TextBox_Key" HorizontalAlignment="Left" Height="50" Margin="124,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" FontFamily="Times New Roman" FontSize="36" TextAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="TextBox_TextKey"/>
+        <Label Content="Ключ:" HorizontalAlignment="Left" Margin="10,20,0,0" VerticalAlignment="Top" Height="50" FontSize="36" FontFamily="Times New Roman" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="109"/>
+        <TextBox IsReadOnly="True" AcceptsReturn="True" x:Name="OriginalTextBox" Height="310" Margin="10,220,457,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Background="White" FontSize="16" />
+        <TextBox IsReadOnly="True" x:Name="СonvertedTextBox" HorizontalAlignment="Right" Height="310" Margin="0,220,19,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="421" Background="White" FontSize="16" />
+        <Button Content="Encode" Margin="10,88,746,0" VerticalAlignment="Top" Height="76" Click="Button_Encode" FontSize="24" FontFamily="Times New Roman" Width="144" Background="#FF650CD1"/>
+        <Button Content="Open File" HorizontalAlignment="Center" Margin="0,12,0,0" VerticalAlignment="Top" Width="144" Height="76" Click="Button_OpenFile" FontFamily="Times New Roman" FontSize="24" Background="#FF13B1C1"/>
+        <Button Content="Save Encode" HorizontalAlignment="Left" Margin="559,88,0,0" VerticalAlignment="Top" Width="144" Height="76" Click="Button_SaveEncode" FontFamily="Times New Roman" FontSize="24" Background="#FF650CD1"/>
+        <Button Content="Decode" Margin="193,88,561,0" VerticalAlignment="Top" Height="76" Click="Button_Decode" FontSize="24" FontFamily="Times New Roman" Background="#FF2EDE1C"/>
+        <Button Content="Save Decode" Margin="740,88,19,0" VerticalAlignment="Top" Height="76" Click="Button_SaveDecode" FontFamily="Times New Roman" FontSize="24" Background="#FF2EDE1C"/>
+        <Label Content="Original Text" HorizontalAlignment="Right" Margin="0,177,605,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="24"/>
+        <Label Content="Converted Text" Margin="0,177,148,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="24" HorizontalAlignment="Right" Width="164"/>
+        <CheckBox x:Name="Check" Content="Keyboard Input" HorizontalAlignment="Left" Margin="559,30,0,0" VerticalAlignment="Top" FontSize="36" FontFamily="Times New Roman" Width="322" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Checked="CheckBox_Checked" Unchecked="CheckBox_UnChecked"/>
+    </Grid>
+</Window>
